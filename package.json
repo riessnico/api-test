@@ -9,8 +9,8 @@
 		"supervisor": "^0.12.0"
 	},
 	"scripts": {
-		"test": "jest",
-		"start": "supervisor script.js"
+		"start": "supervisor script.js",
+		"test": "jest"
 	},
 	"author": "",
 	"license": "ISC",
